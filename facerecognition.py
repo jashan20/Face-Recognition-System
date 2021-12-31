@@ -9,7 +9,7 @@
                 # 2. Read a video stream using opencv
                 # 3. extract faces out of it
                 # 4. use knn to find the prediction of face (int)
-                # 5. map the predicted id to name of the user 
+                # 5. map the predicted id to name of the user  
                 # 6. Display the predictions on the screen - bounding box and name
 
 import cv2
