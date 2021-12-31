@@ -3,7 +3,7 @@
 # Recognise Faces using some classification algorithm - like Logistic, KNN, SVM etc.
 
 
-                # 1. load the training data (numpy arrays of all the persons)
+                # 1. load the training data (numpy arrays of  all the persons)
                         # x- values are stored in the numpy arrays
                         # y-values we need to assign for each person
                 # 2. Read a video stream using opencv
